@@ -4,5 +4,5 @@ Step by step instructions:
 
 Note:
 - If you don't have a Twitter account, create a new one.
-- my_cookie.pkl file saves your login cookie for future logins. Because Twitter will require account authentication if you log in multiple times.
-- file *.csv stores data of collected tweets according to specified hashtag.
+- "my_cookie.pkl" file saves your login cookie for future logins because Twitter will require account authentication if you log in multiple times.
+- file *.csv stores data of collected tweets according to specified hashtags.
